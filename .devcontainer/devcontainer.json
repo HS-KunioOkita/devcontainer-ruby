@@ -1,0 +1,8 @@
+{
+    "name": "ruby",
+    "image": "ruby:alpine3.17",
+    "extentions": [
+        "rebornix.ruby",
+        "ms-vsliveshare.vsliveshare"
+    ]
+}
